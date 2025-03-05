@@ -1,0 +1,10 @@
+#root {
+  max-width: 12000px;
+  margin: 0 auto;
+  padding: 6rem;
+  text-align: top;
+  background-color: black;
+}
+body {
+  background-color: white;
+}
