@@ -7,8 +7,8 @@ export default function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
-                            className="mr-3 h-12"
+                           src="https://dynamic.design.com/asset/logo/99d9f5c9-f738-45bb-b4e4-0ede99203aaa/logo-search-grid-2x?logoTemplateVersion=1&v=638610890176300000&text=CareWell&colorpalette=pink"
+                           className="mr-3 h-30 w-auto"
                             alt="Logo"
                         />
                     </Link>
@@ -67,7 +67,7 @@ export default function Header() {
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive ? "text-orange-700":"text-gray-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }
                                 >
-                                    GitHub
+                                    Our Services 
                                 </NavLink>
                             </li>
 

@@ -13,16 +13,15 @@ export default function About() {
                   </div>
                   <div className="md:7/12 lg:w-6/12">
                       <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
-                          React development is carried out by passionate developers
+                      CAREWELL – Your Trusted Partner in Health & Healing
                       </h2>
                       <p className="mt-6 text-gray-600">
-                          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
-                          accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                          aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
+                      At CAREWELL, we are dedicated to providing unparalleled healthcare services with compassion, integrity, and excellence. Our team of skilled medical professionals combines cutting-edge technology with personalized care to ensure every patient receives the best treatment possible.
                       </p>
                       <p className="mt-4 text-gray-600">
-                          Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                          Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
+                      From advanced diagnostics to comprehensive treatment plans, we are committed to delivering exceptional care with a patient-centered approach. Our state-of-the-art facilities and compassionate staff work tirelessly to promote well-being, recovery, and hope.
+
+At CAREWELL, your health is our priority, and your trust is our greatest achievement.
                       </p>
                   </div>
               </div>
