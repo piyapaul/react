@@ -6,7 +6,7 @@ function GitHub(){
     const data=useLoaderData()
     // const [data, setData]=useState([])
     // useEffect(()=>{
-    //     fetch('https://api.github.com/users/alyviabiswas')
+    //    
     //     .then(response=>response.json())
     //     .then(data=>{
     //         console.log(data)
